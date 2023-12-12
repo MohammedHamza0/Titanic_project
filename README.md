@@ -12,31 +12,32 @@ The primary objective of this project is to analyze the Titanic dataset and gain
 Dataset
 The dataset used for analysis comprises various features including passenger demographics, ticket information, cabin details, and survival outcomes. Key columns include:
 
-PassengerId
-Survived
-Pclass
-Name
-Sex
-Age
-SibSp
-Parch
-Ticket
-Fare
-Cabin
-Embarked
-Analysis
+PassengerId,
+Survived,
+Pclass,
+Name,
+Sex,
+Age,
+SibSp,
+Parch,
+Ticket,
+Fare,
+Cabin,
+Embarked,
+Analysis,
 Exploratory Data Analysis (EDA)
 Initial exploration involves:
 
-Data cleaning and preprocessing
-Statistical summaries
-Visualizations (histograms, pie charts, etc.)
-Correlation analysis
+Data cleaning and preprocessing,
+Statistical summaries,
+Visualizations (histograms, pie charts, etc.),
+Correlation analysis,
+
 Machine Learning Models
 Predictive models are implemented using machine learning algorithms such as:
 
-Decision Trees
-Random Forest
-Gradient Boosting
-XGboost
+Decision Trees,
+Random Forest,
+Gradient Boosting,
+XGboost,
 Voting
